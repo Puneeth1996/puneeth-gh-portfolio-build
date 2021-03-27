@@ -1,10 +1,4 @@
-# puneeth-gh-portfolio-build
----
----
----
----
-
-This Contains the old project folder
+### GH Pages hosted portfolio site
 ---
 Things to Work on 
 - Make the Experience Page 
