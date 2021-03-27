@@ -2,10 +2,32 @@
  This repository is intended in building the portfolio with all effective resources
 
 
-### Things to do 
+## In this branch 
 
-- [ ] Gather the screenshots of some good portfoliio website
-- [ ] Make sure to use the Gh-pages or some free hosting splashes
-- [x] Mars
+1. Ingredients
+
+- spaghetti
+- marinara sauce
+- salt
+
+2. Cooking
+
+Bring water to boil, add a pinch of salt and spaghetti. Cook until pasta is **tender**.
+
+3. Serve
+
+Drain the pasta on a plate. Add heated sauce. 
+
+> No man is lonely eating spaghetti; it requires so much attention.
+
+Bon appetit!
+
+
+
+The [University of Rwanda](http://www.ur.ac.rw) was formed in 2013 through the merger of Rwanda’s seven public institutions of higher education.
+
+
+
+
 
 
