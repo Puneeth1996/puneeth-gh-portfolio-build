@@ -4,6 +4,9 @@ Things to Work on
 - Make the Experience Page 
 - Make the Time Lapase page
 - Work on the contact page 
+---
+Making the new contact page with simple pages
+---
 
 ---
 ---
