@@ -7,7 +7,8 @@ Things to Work on
 ---
 Making the new contact page with simple pages
 ---
-
+Deployed: At https://puneeth1996.github.io/puneeth1996p/#/
+Should work on the Blogs Page A little bit more
 ---
 ---
 ---
