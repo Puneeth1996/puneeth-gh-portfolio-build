@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a1b7b015.chunk.css",
+    "main.js": "/static/js/main.70daec36.chunk.js",
+    "main.js.map": "/static/js/main.70daec36.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.67123b20.chunk.css": "/static/css/2.67123b20.chunk.css",
+    "static/js/2.018e438f.chunk.js": "/static/js/2.018e438f.chunk.js",
+    "static/js/2.018e438f.chunk.js.map": "/static/js/2.018e438f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3bf5b3e7388b10703f786aaa30008a21.js": "/precache-manifest.3bf5b3e7388b10703f786aaa30008a21.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.a1b7b015.chunk.css.map": "/static/css/main.a1b7b015.chunk.css.map",
+    "static/media/city-tours-planner.png": "/static/media/city-tours-planner.1ae8ff90.png",
+    "static/media/contactme.jpg": "/static/media/contactme.954e00db.jpg",
+    "static/media/dronemakers.png": "/static/media/dronemakers.c72f5b31.png",
+    "static/media/eporiumusa.png": "/static/media/eporiumusa.d6abe886.png",
+    "static/media/guestList.png": "/static/media/guestList.4495f110.png",
+    "static/media/mealPlanner.png": "/static/media/mealPlanner.14cd50e3.png",
+    "static/media/mini-chat-app.png": "/static/media/mini-chat-app.97e5a8ec.png",
+    "static/media/myimg.jpg": "/static/media/myimg.4cdd7091.jpg",
+    "static/media/projects.jpg": "/static/media/projects.29e05b58.jpg",
+    "static/media/reactWeatherApp.png": "/static/media/reactWeatherApp.b31ef431.png",
+    "static/media/techStoreEcom.png": "/static/media/techStoreEcom.24d1357b.png",
+    "static/media/userTodo.png": "/static/media/userTodo.bae35555.png"
+  }
+}

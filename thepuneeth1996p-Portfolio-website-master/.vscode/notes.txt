@@ -1,0 +1,814 @@
+1:27 pm
+Wednesday, 19 February 2020 (IST)
+
+
+1   Making the Projects 
+2   Making the home page carosuel much cleaner 
+
+
+
+Working with Project Page Lets make a simple responsive bootstrap card 
+The data should be dynamically comming from the state
+Also make the lazy loading or some kind of pagination for the content.
+
+
+
+
+at 3.30 pm
+
+
+Things to do 
+
+1.  pagination in the projects page
+
+2.  making the carosuel add one more for tutoring 
+
+3.  Should update the content in the About page (In About page add all the social media connects
+
+4.  Also add the google analytics for the project once the deployment is done 
+
+5.  Work on making the heading text all responsive in mobile browser also.
+
+
+
+
+Till 5.45 pm have finished with the pagination That is task 1
+
+
+All the things are working as expected but the Contact page is not working
+
+AND ALSO SHOULD BE REMOVING THE CONSOLE.LOG(STMTS)
+CONTACT PAGE NOT WORKING 
+
+
+
+
+
+
+24th Feb 2020 
+
+
+1.      Fill out the pojects that exist.
+
+2.      Also work on filling the content for the about us page 
+
+3.      Update the image in the home page 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make a list of projects that are to be put the projects page 
+
+1.      Eporium website - php js css html mysql                         
+
+                DONE
+
+
+
+2.      dronemakers - wordpress                 https://puneethskingstongq.000webhostapp.com/
+
+                DONE
+
+
+
+
+3.      Udaci food planner app
+            will updating the build folder to netlify
+            SHould also add the .env files for netlify
+            should be working on the project hosting in the netlify site.
+            https://eloquent-ardinghelli-0935f8.netlify.com/
+            Correction: Making of the 
+                            "homepage" : ".",
+                    THis solved the deployment i
+
+
+
+4.      Food2fork app
+
+
+
+
+5.      Time tracking app 
+
+
+
+6.      Voting App
+
+
+
+
+7.      weather app
+        https://github.com/Puneeth1996/React-App---Weather-Forecast---Open-Weather-Map-API
+        Deployed on Netlify
+        https://agitated-euler-200e23.netlify.com/
+        Done
+
+
+
+8.      mini chat app
+        https://dazzling-hopper-c995fe.netlify.com/
+        Deployed in Netlify
+        Done
+
+9.      event planner reactjs treehouse app
+        https://vigorous-kepler-b8d8a1.netlify.com/
+        Done
+
+10.     ecommerce project 
+        https://serene-austin-5b971c.netlify.com/
+        Done
+
+11.     City Tours planner app
+        https://flamboyant-mccarthy-795ac2.netlify.com
+        Done
+
+12.     Todo porject planner app
+
+
+
+
+
+
+
+11pm 24 Feb 2020
+
+Should start making the projects page 
+
+gather all the build / production folder for all the above projects 
+
+
+
+
+
+
+
+
+
+some reference website greatly inline with my thoughts on portfolio website
+SOME Reference WEBSITE https://chris-lamb.co.uk/projects       (GREATLY HELPFUL)
+
+
+
+
+SHould be finishing up with updating the next 4 portfolio projects
+
+
+
+4.      Food2fork app
+        Neglecting        Not uploading 
+
+
+
+
+5.      Time tracking app 
+        Not uploading 
+
+
+6.      Voting App
+        Not uploading 
+
+
+12.     Todo porject planner app
+        https://reverent-roentgen-06775e.netlify.com/
+        Done
+
+
+
+
+Lets post 
+
+
+
+
+
+
+
+
+
+
+12 June 2020
+
+Have started the building of portfolio website
+
+
+        Front-End reactjs
+
+        PHP Server For API And Backend 
+
+        Admin Page
+
+
+
+21 June 2020
+
+        Link to the playlist 
+        https://www.youtube.com/watch?v=lkiqf5Dj7wI&list=PL4YagVKqrWSKMZ7qwW8McfYfemSBOk5D7
+
+
+
+        12.45pm
+
+        best icons for category 
+
+                https://fontawesome.com/v4.7.0/icon/list
+                
+                https://fontawesome.com/v4.7.0/icon/list-alt
+
+
+
+5.30 pm
+
+Starting to refactor the admin panel for simipllicity
+
+
+6.30pm
+Have made components for admin panel after refactoring the code 
+
+
+
+June 23rd 2020
+8.15am
+
+
+
+Blog page
+
+
+
+
+
+Support Page 
+
+
+Your valuable support means 
+() encouraging me to doing alot more stuff
+() create alot more meaningful projects and services 
+() learn, teach, spread the best methods of achiving things
+() a positive reward to keep my head high 
+() staying loacked in and motivated for higher goals
+
+
+
+google pay
+phone pe
+paytm 
+
+
+
+Big shout outs to 
+
+A box components(color random changing) with Text like ( {big salute to, thanks and regards to , all my respect to, I appreiciate the support from , }  PERSON_NAME for RS_MONEY)
+
+
+
+
+
+
+
+
+
+Learn With Me 
+
+Some courses that I prefer to teach my props 
+
+Projects would be unqiue for each group 
+
+
+
+
+
+
+13 July 2020
+
+
+22 Aug 2020
+
+
+
+
+
+Template for single blog page
+https://codepen.io/timmulch/pen/KKzPRYM
+
+
+
+
+A something simple patrion page 
+
+https://donation-page-story.funraise.org/
+https://donation-page-splitscreen.funraise.or
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24 Aug 2020
+
+hosting account in puneeth1996trainer@gmail.com
+
+
+25 Aug 2020
+
+Social media icons 
+
+
+No using react-icons package
+
+npm i react-icons
+https://www.npmjs.com/package/react-icons
+https://react-icons.github.io/search
+
+
+https://codesandbox.io/s/react-icons-e3f8t?file=/src/styles.css
+
+
+
+https://nightly.ckeditor.com/20-08-25-06-04/full/samples/
+
+
+
+
+
+26 Aug 2020
+
+Password 
+admin@admin.com
+$welcome123@#
+
+
+puneeth1996p@gmail.com
+$$$wingbell
+
+
+
+
+DB in hostinger 
+u513296687_blogsportfolio
+u513296687_blogsportfolio
+$Welcome123@#
+
+
+FTP Password
+$Welcome123@#
+
+
+
+
+
+
+
+27 Aug 2020
+
+
+making the image width 100% 
+
+making the margin for the donation table , marginRight
+
+Making the header in the home page responsive
+
+in the tutor page, making the tutorials card responsive
+
+Making the image responsive in blogs single page
+
+
+
+
+Things to do 
+
+Make the rolling header in both the home and contact page responsive
+
+
+Points Completed 
+
+Made the donations table smaller by splitting the date string after dd-mm-yyyy and removing the hr:mm:ss part of the string
+
+Changed the style of the image in donations page to style={{height: '25vh', width: '50vw', marginLeft: '20vw'}}
+ from
+style={{height: '25vh', width: '25vw', marginLeft: '30vw'}}
+
+
+
+
+9.40pm
+Next things to develop 
+
+` Make a small circle gallery which stores users images and linked with their profiles
+
+
+
+30 Aug 2020
+
+Few Correction
+
+Correction with donations table and student table with additional field for storing descriptive answeres 
+
+Making the rest api for the student end point and displaying only the students names
+
+Correction
+        3rd project improving
+        patrion page 2line appreiciation
+
+make the enquire button linked to email 
+
+
+02 September 2020
+
+Things to do 
+Add pay
+paypalme/puneeth1996p
+Completed
+
+
+
+Writin the introductory blog
+
+height: 65vh;
+width: 70vw;
+
+
+
+Who Am I ?
+.... Brief intro to what you do , education, projects tried and trying,
+
+My Carrer Learnign objectives
+... Be a web developer 
+... turning data scienctiest 
+... being a teacher( reinforcing my knowledge. )
+... why patreon page 
+
+
+Whats Comming in stores
+... Except to see a alot more projects 
+... Me growing as data scientist
+
+
+style={{height: '25vh', width: '30vw', marginLeft: '5vw'}}
+style={{height: '25vh', width: '30vw', marginLeft: '17vw'}}
+
+
+
+
+FTP Password
+$$$Keyboard123
+
+
+FTP IP	ftp://213.190.6.143
+FTP hostname	ftp://thepuneeth1996p.tech
+FTP username	u513296687
+FTP port	21
+
+
+
+
+
+Things to do 
+
+
+Writin the introductory blog
+
+height: 65vh;
+width: 70vw;
+
+
+
+Who Am I ?
+.... Brief intro to what you do , education, projects tried and trying,
+
+My Carrer Learnign objectives
+... Be a web developer 
+... turning data scienctiest 
+... being a teacher( reinforcing my knowledge. )
+... why patreon page 
+
+
+Whats Comming in stores
+... Except to see a alot more projects 
+... Me growing as data scientist
+
+
+
+02 September 2020
+
+1.30pm 
+
+Email Maketting
+
+        Lead Magnet , 
+
+                Youtube vedios = Free coding webinars, free projects, case studies/ projects 
+
+
+
+        good service
+                real problems, super specific, quick digest, high value, instantly accesible , demonstrate expertise
+
+
+
+        analytics : after - math
+                open rate,  , click rate,  bounce rate(soft- maybe due to server error and hard, due wrongly types email, cause isp to mark you as threat to bulk email marketting),   unsubscibe rate
+
+
+
+        Improve Open rate
+                subject line, text( pre-header text ), subject, placing call to action , work on previews relevancy
+
+
+
+        Email Template
+                using some simeple and catchy words to be understanable be everyone
+                MailChimp
+                        
+                
+
+Email Marketting subjects:
+        
+
+
+
+
+
+
+19 Oct 2020
+
+1pm 
+
+
+
+Hosting two new project 
+
+1. The new reader app 
+        20 Oct 2020 8.30pm 
+                As there is routing involved the app should be slightly modified to deploy on the netlify account
+                 ()Have used the redirect
+                 ()have deployed the git repo to netlify
+
+                 > ERR The Site was depl but the API News API is not working in free tier account
+                
+
+
+
+2. The Count Down timer 
+https://count-down-timmer.netlify.app/
+Have made the image
+
+
+
+
+
+20 Oct 2020
+
+gmail -  puneeth1996trainer@gmail.com 
+
+http://thepuneeth1996p.tech/
+
+
+FTP Password
+$$$Keyboard123
+
+
+FTP IP	ftp://213.190.6.143
+FTP hostname	ftp://thepuneeth1996p.tech
+FTP username	u513296687
+FTP port	21
+
+
+
+10.30pm
+The Count Down timer 
+https://count-down-timmer.netlify.app/
+Have made the image
+
+
+                {
+                    id: 12,
+                    title: 'Count Down Timer - Vanilla JS',
+                    subTitle: 'A Simple JS build of Count Down Timmer.',
+                    imgSrc: countdowntimmerJS,
+                    link: 'https://count-down-timmer.netlify.app/',
+                    feature: ['Vanilla JS', 'HTML', 'Bootstrap'],
+                    dataAdded: 'Made on Oct 2020'
+                },
+
+
+
+
+26th Oct 2020
+
+4.40pm
+
+
+                                Writing for the first blog = Introductory Blog
+
+In this big world, I look to become a great web developer with persistantly looking after betterment in the UI UX aspect, also adding tiny blocks into my data science journey, am hybrid type of person interested in Web Development and Data Science.
+
+My Web Development Stack
+
+
+My Data Science Journey
+
+
+Some project that Am courrently Working on
+
+
+What This Portfolio Website means
+
+
+What I Do in my trainings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
