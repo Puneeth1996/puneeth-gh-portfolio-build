@@ -31,15 +31,15 @@ class ContactPage extends React.Component {
                     
                     
                     <Row>
-                        <Col  className="d-flex justify-content-between">
+                        <Col  className="d-flex justify-content-between"  style={{ width: "70vw" }}  >
                             <a  href="tel:+91 9066 339 217" target="_blank"  rel="noopener noreferrer">
-                                <FaPhoneAlt style={{ height: 150, width: 150,   color: "gray", "textDecoration": "none"  }}  /> 
+                                <FaPhoneAlt style={{ height: "10vh" , width: "10vw" ,   color: "gray", "textDecoration": "none"  }}  /> 
                             </a>
                             <a href="https://www.linkedin.com/in/puneeth-p-861095146/" target="_blank"  rel="noopener noreferrer"> 
-                                <FaLinkedinIn style={{ height: 150, width: 150,   color: "#0095ff", "textDecoration": "none"  }}  /> 
+                                <FaLinkedinIn style={{ height: "10vh" , width: "10vw" ,   color: "#0095ff", "textDecoration": "none"  }}  /> 
                             </a>
                             <a href="mailto: puneeth1996trainer@gmail.com?cc=puneeth1996p@gmail.com" target="_blank"  rel="noopener noreferrer"> 
-                                <SiGmail style={{ height: 150, width: 150,   color: "red", "textDecoration": "none"    }}  /> 
+                                <SiGmail style={{ height: "10vh" , width: "10vw" ,   color: "red", "textDecoration": "none"    }}  /> 
                             </a>
                         </Col>
                     </Row>

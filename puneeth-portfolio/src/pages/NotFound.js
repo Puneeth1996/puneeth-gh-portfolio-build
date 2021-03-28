@@ -24,7 +24,7 @@ function NotFound(props) {
                                     
                                     <p>the page you are looking for not avaible!</p>
                                     
-                                    <a href="/" class="link_404">Go to Home</a>
+                                    <Link href="/" class="link_404">Go to Home</Link>
                                 </div>
                             </div>
                         </div>
